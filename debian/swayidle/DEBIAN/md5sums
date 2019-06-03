@@ -1,0 +1,7 @@
+f653ff45f90ef3461456ed0a1a1ccb15  usr/bin/swayidle
+8aaf6607dfa1b402b5bbd0f7c95d4656  usr/share/bash-completion/completions/swayidle
+2e2298c42c24a73253b4876f49bce587  usr/share/doc/swayidle/changelog.Debian.gz
+04c18507a812569d4cd30f6bad82a72d  usr/share/doc/swayidle/copyright
+a38c5f0540edcf913bb5636ff8415609  usr/share/fish/completions/swayidle.fish
+a89e0a0621d945d1663df29df1a8ed3d  usr/share/man/man1/swayidle.1.gz
+b2ca2d6a6d1bc8f5f5e8e3fd4255d8b1  usr/share/zsh/site-functions/_swayidle

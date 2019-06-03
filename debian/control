@@ -1,0 +1,18 @@
+Source: swayidle
+Section: x11
+Priority: optional
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Build-Depends: debhelper (>= 9),
+                              meson,
+                              cmake,
+                              git,
+                              libwayland-dev,
+                              libwlroots-dev,
+                              wayland-protocols
+Standards-Version: 3.9.8
+Homepage: https://github.com/swaywm/swayidle
+
+Package: swayidle
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: This is sway's idle management daemon, swayidle.

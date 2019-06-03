@@ -1,0 +1,10 @@
+Package: swayidle
+Version: 1.3-1~disco
+Architecture: amd64
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Installed-Size: 49
+Depends: libc6 (>= 2.28), libsystemd0 (>= 237), libwayland-client0 (>= 1.9.91), libwayland-server0 (>= 1.0.2)
+Section: x11
+Priority: optional
+Homepage: https://github.com/swaywm/swayidle
+Description: This is sway's idle management daemon, swayidle.
